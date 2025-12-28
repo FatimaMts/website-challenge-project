@@ -1,7 +1,7 @@
  /* main styles */
 body {
     background-color:whitesmoke;
-    margin: 90px;
+    padding: 30px;
     font-family: 'inter', sans-serif;
 }
 
@@ -11,7 +11,7 @@ body {
     border: outset 6px #99D276;
     border-radius: 20px;
     padding: 8px;
-    margin: 8px 0;
+    margin: 20px 0;
     color:#499FA4;
     font-family: 'Inter', sans-serif;
     text-align : center;
@@ -49,6 +49,8 @@ body {
     margin: 5px;
 }
 
+/* typography panel styles */
+
 .font-panel {
   width: 40%;
   display: inline-block;
@@ -74,15 +76,15 @@ body {
 }
 
 .times-new-roman {
-  font-family: 'Times new roman', sans-serif;
+  font-family: 'Times new roman';
 }
 
 .arial {
-  font-family: 'arial', sans-serif;
+  font-family: 'arial';
 }
 
-.lucida-sans {
-  font-family: 'Lucida sans', sans-serif;
+.courier-new {
+  font-family: 'courier new';
 
 }
 
